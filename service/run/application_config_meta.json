@@ -1,0 +1,317 @@
+{
+  "keys": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\config\\config.default.js",
+  "middleware": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\config\\config.default.js",
+  "mysql": {
+    "client": {
+      "host": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\config\\config.default.js",
+      "port": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\config\\config.default.js",
+      "user": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\config\\config.default.js",
+      "password": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\config\\config.default.js",
+      "database": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\config\\config.default.js"
+    },
+    "app": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\config\\config.default.js",
+    "agent": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\config\\config.default.js",
+    "default": {
+      "database": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-mysql\\config\\config.default.js",
+      "connectionLimit": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-mysql\\config\\config.default.js"
+    }
+  },
+  "security": {
+    "csrf": {
+      "enable": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\config\\config.default.js",
+      "type": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\config\\config.default.js",
+    "protocolWhiteList": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\config\\config.default.js",
+    "credentials": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\config\\config.default.js",
+    "allowMethods": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "private": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "axios": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "egg": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "egg-mysql": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "stop": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "dev": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "debug": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "test": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "cov": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "lint": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "ci": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "autod": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "url": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "port": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\node_modules\\egg\\config\\config.default.js"
+}

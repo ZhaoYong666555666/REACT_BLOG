@@ -1,0 +1,146 @@
+2020-09-25 15:36:04,180 ERROR 5700 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "E:\\ZYownStudy\\jspREACT\\REACT_BLOG\\service\\app\\middleware"
+name: "EPERMError"
+pid: 5700
+hostname: ZHAOYONG-PC
+
+2020-10-27 17:51:48,521 ERROR 14608 [-/127.0.0.1/-/4ms GET /admin/getTypeInfo] nodejs.ReferenceError: sessionStorage is not defined
+    at adminauth (E:\ZYownStudy\jspREACT\REACT_BLOG\service\app\middleware\adminauth.js:10:24)
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:44:32)
+    at next (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:45:18)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:44:32)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 14608
+hostname: ZHAOYONG-PC
+
+2020-10-27 17:52:34,530 ERROR 8372 [-/127.0.0.1/-/11ms GET /admin/getTypeInfo] nodejs.ReferenceError: sessionStorage is not defined
+    at adminauth (E:\ZYownStudy\jspREACT\REACT_BLOG\service\app\middleware\adminauth.js:10:24)
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:44:32)
+    at next (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:45:18)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:44:32)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 8372
+hostname: ZHAOYONG-PC
+
+2020-10-27 17:53:38,178 ERROR 6700 [-/127.0.0.1/-/6ms GET /admin/getTypeInfo] nodejs.ReferenceError: sessionStorage is not defined
+    at adminauth (E:\ZYownStudy\jspREACT\REACT_BLOG\service\app\middleware\adminauth.js:10:24)
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:44:32)
+    at next (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:45:18)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:44:32)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 6700
+hostname: ZHAOYONG-PC
+
+2020-10-27 17:55:01,084 ERROR 5308 [-/127.0.0.1/-/4ms GET /admin/getTypeInfo] nodejs.ReferenceError: sessionStorage is not defined
+    at adminauth (E:\ZYownStudy\jspREACT\REACT_BLOG\service\app\middleware\adminauth.js:10:23)
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:44:32)
+    at next (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:45:18)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:44:32)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 5308
+hostname: ZHAOYONG-PC
+
+2020-10-27 17:56:43,182 ERROR 11996 [-/127.0.0.1/-/4ms GET /admin/getTypeInfo] nodejs.ReferenceError: sessionStorage is not defined
+    at adminauth (E:\ZYownStudy\jspREACT\REACT_BLOG\service\app\middleware\adminauth.js:10:23)
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:44:32)
+    at next (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:45:18)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:44:32)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 11996
+hostname: ZHAOYONG-PC
+
+2020-10-27 18:08:38,829 ERROR 21948 [-/127.0.0.1/-/3ms GET /admin/getTypeInfo] nodejs.TypeError: Cannot read property 'session' of undefined
+    at adminauth (E:\ZYownStudy\jspREACT\REACT_BLOG\service\app\middleware\adminauth.js:8:30)
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:44:32)
+    at next (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:45:18)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:44:32)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 21948
+hostname: ZHAOYONG-PC
+
+2020-10-27 18:22:25,841 ERROR 6452 [-/127.0.0.1/-/6ms GET /admin/getTypeInfo] nodejs.TypeError: Cannot set property 'body' of undefined
+    at adminauth (E:\ZYownStudy\jspREACT\REACT_BLOG\service\app\middleware\adminauth.js:11:27)
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:44:32)
+    at next (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:45:18)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:44:32)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 6452
+hostname: ZHAOYONG-PC
+
+2020-10-27 18:23:05,710 ERROR 6452 [-/127.0.0.1/-/1ms GET /admin/getTypeInfo] nodejs.TypeError: Cannot set property 'body' of undefined
+    at adminauth (E:\ZYownStudy\jspREACT\REACT_BLOG\service\app\middleware\adminauth.js:11:27)
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:44:32)
+    at next (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:45:18)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:44:32)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 6452
+hostname: ZHAOYONG-PC
+
+2020-10-27 18:24:10,452 ERROR 7956 [-/127.0.0.1/-/4ms GET /admin/getTypeInfo] nodejs.TypeError: Cannot set property 'body' of undefined
+    at adminauth (E:\ZYownStudy\jspREACT\REACT_BLOG\service\app\middleware\adminauth.js:11:27)
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:44:32)
+    at next (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:45:18)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:44:32)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\ZYownStudy\jspREACT\REACT_BLOG\service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 7956
+hostname: ZHAOYONG-PC
+
